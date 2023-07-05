@@ -1,4 +1,4 @@
-# Project Title
+# Go-Websocket
 
 ![Project Image](https://i.ytimg.com/vi/norUcMSJRtQ/maxresdefault.jpg)
 
@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Usage
 
-To use this project, run the `main.go` file and open it on the root x socket.
+To use this project, run the `main.go` file and open it on the root ws://localhost:3000/ws socket.
 
 ## Contributing
 
