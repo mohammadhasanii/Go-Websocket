@@ -1,9 +1,6 @@
-Sure! Here's a sample README for a project using Golang and WebSocket:
-
-```
 # Project Title
 
-![Project Image](https://webapp.io/blog/content/images/2022/12/Frame-123.png)
+![Project Image](https://i.ytimg.com/vi/norUcMSJRtQ/maxresdefault.jpg)
 
 This project is built using Golang and WebSocket.
 
@@ -33,6 +30,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-You can replace `image_url` with the URL of the image you want to use. Is there anything else I can help with?
